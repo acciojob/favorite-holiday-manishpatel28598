@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+ol{
+font-style: italic;
+font-weight: 200;
+}
+ul{
+    font-style: normal;
+    font-weight: 200;
+}
